@@ -1,5 +1,27 @@
 # Changelog
 
+## v3.0.2
+- [Add config parameter for predicate quantifier](https://github.com/dorny/paths-filter/pull/224)
+
+## v3.0.1
+- [Compare base and ref when token is empty](https://github.com/dorny/paths-filter/pull/133)
+
+## v3.0.0
+- [Update to Node.js 20](https://github.com/dorny/paths-filter/pull/210)
+- [Update all dependencies](https://github.com/dorny/paths-filter/pull/215)
+
+## v2.11.1
+- [Update @actions/core to v1.10.0 - Fixes warning about deprecated set-output](https://github.com/dorny/paths-filter/pull/167)
+- [Document need for pull-requests: read permission](https://github.com/dorny/paths-filter/pull/168)
+- [Updating to actions/checkout@v3](https://github.com/dorny/paths-filter/pull/164)
+
+## v2.11.0
+- [Set list-files input parameter as not required](https://github.com/dorny/paths-filter/pull/157)
+- [Update Node.js](https://github.com/dorny/paths-filter/pull/161)
+- [Fix incorrect handling of Unicode characters in exec()](https://github.com/dorny/paths-filter/pull/162)
+- [Use Octokit pagination](https://github.com/dorny/paths-filter/pull/163)
+- [Updates real world links](https://github.com/dorny/paths-filter/pull/160)
+
 ## v2.10.2
 - [Fix getLocalRef() returns wrong ref](https://github.com/dorny/paths-filter/pull/91)
 
